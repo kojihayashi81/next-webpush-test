@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "cognitoConfig": {
+    "identityPoolName": "nextjs13sample_identitypool_26b553b7",
+    "allowUnauthenticatedIdentities": true,
+    "authSelections": "identityPoolOnly",
+    "resourceName": "nextjs13sample",
+    "sharedId": "26b553b7",
+    "serviceName": "Cognito",
+    "useDefault": "manual"
+  }
+}
