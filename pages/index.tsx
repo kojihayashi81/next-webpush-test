@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import React, { useEffect, useMemo } from 'react'
-import * as firebase from 'firebase/compat/app'
+import firebase from 'firebase/compat/app'
 import 'firebase/compat/messaging'
 import { firebaseCloudMessaging } from '../utils/WebPush'
 
